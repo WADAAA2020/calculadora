@@ -1,0 +1,29 @@
+body{
+    font-family: monospace;
+    min-height: 400px;
+    background-image: url('../img/fundo.jpeg');
+    background-repeat: no-repeat;
+    background-size: 250vh;
+    background-position: center bottom;
+    background-color: black;
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 300px;
+}
+
+.container{
+    text-align: center;
+    padding: 20x;
+    height: 100vh;
+}
+
+.titulo{
+    margin: 0 0 5px 5px;
+}
+
+.subtitulo{
+    color: yellow;
+    margin-top: 5px;
+    font-size: 20px;
+}
